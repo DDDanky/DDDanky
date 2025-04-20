@@ -3,10 +3,8 @@
 ##  sou Ethical Hacker e Cyber Segurança pela Cisco.
 
 ###
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgarrais/)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dnkrdi00/)
 
-![Gabriel Danky GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldanky&show_icons=true&theme=radical)
+![Danky GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldanky&show_icons=true&theme=radical)
 
 ## Tecnologias que utilizo no dia a dia:
 

@@ -1,5 +1,6 @@
 
-### Olá! Eu sou o Gabriel Danky 😋
+### Olá! Eu sou o Danky!
+##  sou Ethical Hacker e Cyber Segurança pela Cisco.
 
 ###
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgarrais/)

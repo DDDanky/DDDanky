@@ -4,7 +4,7 @@
 
 ###
 
-![Danky GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldanky&show_icons=true&theme=radical)
+![Danky GitHub stats](https://github-readme-stats.vercel.app/api?username=dddanky&show_icons=true&theme=radical)
 
 ## Tecnologias que utilizo no dia a dia:
 
